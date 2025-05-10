@@ -1,4 +1,4 @@
-# 🏡 LISC NY Mortgage Insights
+# State of New York Mortgage Agency (SONYMA) Loans Purchased: Beginning 2004
 
 **Data analysis of SONYMA loans purchased across New York State since 2004, with the goal of identifying trends that inform affordable housing and homeownership strategies.**
 
